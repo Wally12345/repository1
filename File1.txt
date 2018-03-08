@@ -1,1 +1,2 @@
-contents of file 1
+contents of file 1 
+in master branch
