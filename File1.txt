@@ -1,2 +1,2 @@
 contents of file 1 
-in branch1
+in branch2
